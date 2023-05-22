@@ -1,1 +1,14 @@
+streamlit
+numpy
+pandas
+seaborn
+matplotlib
+scipy
+Scikit-learn
 
+
+
+
+
+#local packages
+-e .
